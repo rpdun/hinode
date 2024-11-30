@@ -15,8 +15,6 @@ caption = "Ronald Dunan, Thom Regie Desamito, Kenji Pendon, Xynney Pincas, at Ow
 # toml-docs-end lang-param
 [en.params.sections.blog]
 reference = "More Posts"
-[en.params.sections.projects]
-reference = "More Projects"
 
 [nl]
 languageName = "Nederlands"
