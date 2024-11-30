@@ -1,13 +1,14 @@
 ---
 author: Owen Lim Torotoro
 title: Paano Nagsasaya ang mga Estudyante sa Pagkain sa FSUU
-date: 2024-12-29
+date: 2024-11-29
 description: Sa Father Saturnino Urios University (FSUU), ang pagkain ay hindi lang basta pangbusog—ito rin ay bahagi ng buhay-estudyante na nagdudulot ng samahan at kasiyahan. Mula sa masisiglang lugar ng kampus hanggang sa tahimik na sulok, makikita kung paano pinapahalagahan ng mga estudyante ang pagkain bilang bahagi ng kanilang araw. 
 tags: ["FSUU", "Food"]
-thumbnail:
-  url: https://assets.imgix.net/examples/bluehat.jpg
+thumbnail: /img/food.jpg
+
 ---
-### Masiglang Cafeteria
+
+## Masiglang Cafeteria
 Ang cafeteria sa FSUU ay laging puno ng tawanan at kwentuhan ng mga estudyante. Sa paligid, nararamdaman ang bango ng mga bagong lutong pagkain tulad ng pancit, lumpia, at siomai na paborito ng marami. Karaniwang magkakasama ang magkakaibigan, nagkukwentuhan habang nilalasap ang kanilang pagkain, na nagdudulot ng mainit at masayang atmospera.
 
 ## Canteen na May Microwave System
