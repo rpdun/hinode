@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
-    separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    separator = ""
+    description = "Pagsasalaysay ng mga Kwento ng Urian sa Kampus, Mula sa Tagumpay ng Estudyante Hanggang sa Paglago ng Komunidad."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -155,7 +155,7 @@
 
 # toml-docs-start theme-colors
 [style]
-    primary = "#d43900"
+    primary = "#2596be"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
@@ -187,7 +187,7 @@
     github = "https://github.com/gethinode/hinode"
     section = "blog"
     [schema.author]
-        name = "Mark Dumay"
+        name = "Morelos Digest"
         # twitter = "https://twitter.com/markdumay"
         linkedin = "https://www.linkedin.com/in/markdumay/"
         github = "https://github.com/markdumay"
