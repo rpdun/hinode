@@ -30,7 +30,7 @@
     checkVersion = false
 
 [home]
-    sections = ["blog", "projects"]
+    sections = ["blog"]
     fullCover = false
     centerHeadline = false
     style = ""
