@@ -2,7 +2,7 @@
 author: Xynney Pincas
 title: Pagbalanse sa Aral at Negosyo
 date: 2024-11-29
-description: Ito ay mga obserbasyon ni Xynney Pincas na naglalarawan ng mga karanasan ng mga estudyante na nagbebenta ng pagkain sa paaralan upang kumita ng allowance o makatulong sa kanilang mga magulang. Tinutukoy nito ang mga hamon ng pamamahala ng oras, sipag, at pagbabadyet sa pag-aaral at negosyo.
+description: Ito ay mga obserbasyon ni Xynney Pincas na naglalarawan ng mga karanasan ng mga estudyante na nagbebenta ng pagkain sa paaralan upang kumita ng allowance o makatulong sa kanilang mga magulang. 
 tags: ["FSUU", "News"]
 thumbnail:
   url: img/puzzle.jpg
