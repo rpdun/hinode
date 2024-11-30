@@ -1,42 +1,19 @@
 ---
-author: Mark Dumay
-title: Local and remote images
-date: 2024-05-19
-description: Include responsive images from local sources and selected CDN image providers.
-tags: ["blog"]
+author: Owen Lim Torotoro
+title: Paano Nagsasaya ang mga Estudyante sa Pagkain sa FSUU
+date: 2024-12-29
+description: Sa Father Saturnino Urios University (FSUU), ang pagkain ay hindi lang basta pangbusog—ito rin ay bahagi ng buhay-estudyante na nagdudulot ng samahan at kasiyahan. Mula sa masisiglang lugar ng kampus hanggang sa tahimik na sulok, makikita kung paano pinapahalagahan ng mga estudyante ang pagkain bilang bahagi ng kanilang araw. Narito ang tatlong halimbawa kung paano nila ito pinakikinabangan:
+tags: ["FSUU", "Food"]
 thumbnail:
   url: https://assets.imgix.net/examples/bluehat.jpg
 ---
+### Masiglang Cafeteria
+Ang cafeteria sa FSUU ay laging puno ng tawanan at kwentuhan ng mga estudyante. Sa paligid, nararamdaman ang bango ng mga bagong lutong pagkain tulad ng pancit, lumpia, at siomai na paborito ng marami. Karaniwang magkakasama ang magkakaibigan, nagkukwentuhan habang nilalasap ang kanilang pagkain, na nagdudulot ng mainit at masayang atmospera.
 
-## Cloudinary
+## Canteen na May Microwave System
+Ang canteen ng FSUU ay nag-level up sa paglalagay ng microwave system para sa mga estudyanteng nagdadala ng kanilang sariling pagkain. Madali na nilang maiinit ang kanilang baon tulad ng adobo, sinigang, o kahit instant noodles, nang hindi na kailangang mag-alala kung malamig ang kanilang pagkain. Ang sistema ay patok sa mga estudyante, na mas lalong naaaliw dahil sa serbisyong ito. Bukod dito, mas maganda at mas maaliwalas na rin ang canteen, na may mas maraming espasyo at maayos na pasilidad.
 
-As an example, the following shortcode displays an image with rounded corners and a 21x9 aspect ratio.
+## Tahimik na Piknik sa Hardin ng Kampus
+Para sa mga estudyanteng mas gusto ang tahimik na lugar, madalas silang nagdadala ng baon o biniling pagkain sa mga hardin ng kampus. Nakatambay sa mga bangko o sa lilim ng mga puno, nilalasap nila ang kanilang pagkain sa kalmadong kapaligiran. Minsan pa’y sinasamahan ito ng acoustic na tugtugin ng isang kaklase, na nagbibigay ng mas preskong pahinga mula sa abala ng kanilang klase.
 
-{{% comment %}}<!-- markdownlint-disable MD037 -->{{% /comment %}}
-{{< example lang="hugo" >}}
-{{</* image src="https://res.cloudinary.com/demo/dog.webp"
-    ratio="21x9" caption="Cloudinary image" class="rounded" plain=true */>}}
-{{< /example >}}
-{{% comment %}}<!-- markdownlint-enable MD037 -->{{% /comment %}}
-
-## ImageKit.io
-
-As an example, the following shortcode displays an image with rounded corners and a 21x9 aspect ratio.
-
-{{% comment %}}<!-- markdownlint-disable MD037 -->{{% /comment %}}
-{{< example lang="hugo" >}}
-{{</* image src="https://ik.imagekit.io/demo/default-image.jpg"
-    ratio="21x9" caption="ImageKit.io image" class="rounded" anchor="Center" */>}}
-{{< /example >}}
-{{% comment %}}<!-- markdownlint-enable MD037 -->{{% /comment %}}
-
-## Imgix
-
-As an example, the following shortcode displays an image with rounded corners and a 21x9 aspect ratio.
-
-{{% comment %}}<!-- markdownlint-disable MD037 -->{{% /comment %}}
-{{< example lang="hugo" >}}
-{{</* image src="https://assets.imgix.net/examples/bluehat.jpg"
-    ratio="21x9" caption="imgix image" class="rounded" anchor="Top" */>}}
-{{< /example >}}
-{{% comment %}}<!-- markdownlint-enable MD037 -->{{% /comment %}}
+Sa FSUU, hindi lang ang pagkain ang mahalaga—ang bawat sandali na nagkakasama ang mga estudyante ay nagiging pagkakataon upang magbahagi ng masaya at magaan na mga alaala.
