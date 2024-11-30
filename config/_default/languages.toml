@@ -6,7 +6,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = ""
     [en.params.social]
         title = "Blog nina"
         caption = "Ronald Dunan, Thom Regie Desamito, Kenji Pendon, Xynney Pincas, at Owen Lim Torotoro."
