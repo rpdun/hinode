@@ -36,5 +36,11 @@
   name = "Blog"
   pageRef = "/blog/"
   weight = 10
+  
+[[sample]]
+  name = "About"
+  pageRef = "/about/"
+  weight = 10
+
 
 # toml-docs-end sample-navigation
