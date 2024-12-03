@@ -4,7 +4,7 @@ title: Kick off!
 date: 2024-11-28
 description: Ito ang dahilan kung saan nagsimula ang lahat.
 tags: ["blog", "personal"]
-thumbnail: /img/sports.jpg
+thumbnail: /img/fbt.jpg
 ---
 
 Dalawang taon na ang nakalipas nang una kong masaksihan ang mga laro ng futsal at football sa Butuan. Hangang-hanga ako sa mga manlalaro mula sa iba't ibang lokal na club. Isang araw, naisip ko na subukan ang laro mismo. Ngunit may isang malaking hadlang—hindi suportado ng mga magulang ko ang desisyon kong maglaro. Gayunpaman, determinado akong sumubok, kaya nag-ipon ako ng pera mula sa allowance para makabili ng murang cleats at naglaro nang lingid sa kaalaman nila. Sa huli, nahuli rin nila ako, ngunit nagmakaawa akong payagan nila akong ipagpatuloy ang laro sa kabila ng mga panganib nito.
